@@ -25,7 +25,7 @@ public class MainActivity extends ActionBarActivity {
         }
     }
 
-//check for push  
+//check for the big work 
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
         
